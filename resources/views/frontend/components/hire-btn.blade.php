@@ -1,0 +1,1 @@
+<a href="{{ route($link, [$freelancer_id, $gig_id]) }}" class="btn primary-bg-color primary-bg-hover text-white">Hire</a>

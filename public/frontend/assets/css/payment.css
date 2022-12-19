@@ -1,0 +1,31 @@
+
+.fit-image{
+    width: 100%;
+    object-fit: cover;
+}
+img{
+    border-radius: 5px
+}
+.radio-group{
+    position: relative;
+    margin-bottom: 25px
+}
+.radio{
+    display:inline-block;
+    border-radius: 6px;
+    box-sizing: border-box;
+    border: 2px solid lightgrey;
+    cursor:pointer;
+    margin: 12px 25px 12px 0px
+}
+.radio:hover{
+    box-shadow: 0px 0px 0px 1px rgba(0, 0, 0, 0.2)
+}
+.radio.selected{
+    box-shadow: 0px 0px 0px 1px rgba(0, 0, 155, 0.4);
+    border: 2px solid blue
+}
+.label-radio{
+    font-weight: bold;
+    color: #000000
+}

@@ -1,0 +1,1 @@
+<a href="{{ route($link, [$client_id]) }}" class="btn secondary-bg-color secondary-hover text-white my-2">Chat</a>

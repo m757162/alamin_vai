@@ -1,0 +1,18 @@
+.card-shadow {
+	box-shadow: 4px 5px 10px gray;
+}
+.overview-card-pending-balance {
+	background: linear-gradient(22deg, #684836, #057b44bd 80%, rgba(159, 62, 62, 0.44));
+}
+
+.overview-card-balance {
+	background: linear-gradient(22deg, #30994fa3, #057b44de 80%, rgba(15, 159, 98, 0.61));
+}
+
+.overview-completed-orders {
+	background: linear-gradient(22deg, #30994fa3, #05657bde 80%, rgba(15, 159, 98, 0.61));
+}
+
+.overview-active-orders {
+	background: linear-gradient(22deg, #331993a3, #0b83a8de 80%, rgba(19, 162, 101, 0.61));
+}

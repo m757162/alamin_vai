@@ -1,0 +1,73 @@
+.dropdown .profile-name .name p{
+    font-size: 12px;
+}
+
+.primary-text-color{
+    color: #006a5d;
+}
+
+.secondary-text-color{
+    color: #f85a40;
+}
+
+.img-round{
+    border-radius: 100%;
+}
+
+.img-border{
+    border: 2px solid;
+}
+.primary-border-color{
+    border-color: #006a5d;
+}
+
+.secondary-border-color{
+    border-color: #f85a40;
+}
+
+.primary-bg-color{
+    background-color: #006a5d;
+}
+
+.secondary-bg-color{
+    background-color: #f85a40;
+}
+
+.primary-hover{
+    color: #006a5d;
+}
+.secondary-hover{
+    color: #f85a40;
+}
+/* End Theme Style */
+
+.profile-img-content .title a{
+    font-size: 16px;
+}
+/* User sidebar Going here */
+.user-moto{
+    cursor: pointer;
+}
+.user-moto:hover{
+    color: #f85a40;
+}
+.description-header i{
+    cursor: pointer;
+}
+
+.description-header i:hover{
+    color: #006a5d;
+}
+.socials .social-links a i{
+    font-size: 25px !important;
+
+}
+
+.edit-icon-pointer{
+    cursor: pointer;
+}
+.profile-header{
+    padding: 10px 8px;
+}
+
+/* User sidebar End here */
